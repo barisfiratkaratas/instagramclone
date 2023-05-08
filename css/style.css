@@ -1,11 +1,3 @@
-::placeholder{
-  text-align: center;
-  font-size: 14px;
-  color: gray;
-  background-position: 40%;
-  background-size: 6%;
-}
-
 input.empty {
     font-family: FontAwesome;
     font-style: normal;
@@ -20,8 +12,12 @@ input.empty {
   color: black;
 }
 
+.middlearea {
+  max-height: 200px !important;
+}
 
-.storyphoto {
+
+.storyphotoo {
   width: 60px;
   height: 60px;
   border-radius: 50%;
